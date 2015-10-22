@@ -1,0 +1,29 @@
+{
+  "name": "rework-css-prefix",
+  "version": "0.0.1",
+  "description": "Add a class prefix to further sandbox CSS styling.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatsheepcn/rework-css-prefix.git"
+  },
+  "keywords": [
+    "rework",
+    "class",
+    "class-prefix",
+    "css",
+    "css-prefix"
+  ],
+  "author": {
+    "name": "fatsheepcn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fatsheepcn/rework-css-prefix/issues"
+  },
+  "homepage": "https://github.com/fatsheepcn/rework-css-prefix",
+  "dependencies": {
+    "is-present": "0.0.1",
+    "rework": "^1.0.1"
+  }
+}
